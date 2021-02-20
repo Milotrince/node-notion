@@ -1,1 +1,1 @@
-module.exports = require('.src/notion')
+module.exports = require('./src/notion')
